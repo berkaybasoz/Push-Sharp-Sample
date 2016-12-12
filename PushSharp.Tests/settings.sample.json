@@ -1,0 +1,22 @@
+﻿{
+	"apns_cert_file" : "",
+    "apns_cert_pwd" : "",
+	"apns_device_tokens" : 
+	[
+		"",
+	],
+    
+	"gcm_auth_token" : "AIzaSyDhejkrW9XaXwAcIaOgozHQK-3jwha7wbM",
+    "gcm_sender_id" : "230605094084",
+    "gcm_registration_ids" : 
+	[
+		"fmV02UQHl3E:APA91bH0DfgEmYSUqMiHKBWJmhqR0x6PHrg7S3wbiRFI_HT8RXFW7JWZ6WGRFCPAiIlXtz2798pFVGHUzy-oeL1iJRG3neHvi7qxzuUG_JI46QzvwWIpTPeTv7Gdk3Qs2v3VKd548AhK", 
+	],
+        
+	"adm_client_id" : "",
+    "adm_client_secret" : "",
+	"adm_registration_ids" : 
+	[
+		"",
+	],
+}

@@ -1,0 +1,5 @@
+﻿Enable-Migrations -EnableAutomaticMigrations -Force
+update-database
+
+for column upgrade -detail url https://msdn.microsoft.com/en-us/data/jj591621.aspx?f=255&MSPPError=-2147217396
+add-migration addPushMessageIsSent
